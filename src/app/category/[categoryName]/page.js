@@ -16,11 +16,11 @@ export async function generateMetadata({ params }) {
   const { categoryName } = params;
 
   return {
-    title: `${categoryName} - Treinos em Casa`,
-    description: `Artigos e treinos sobre ${categoryName} para você fazer em casa.`,
+    title: `${categoryName} - Evoluir na programaçao para iniciantes`,
+    description: `Artigos sobre ${categoryName} para você aprender`,
     openGraph: {
-      title: `${categoryName} - Treinos em Casa`,
-      description: `Conteúdos sobre ${categoryName}.`,
+      title: `${categoryName} - sobre programação para iniciantes`,
+      description: `Conteúdos sobre ${categoryName} de dev`,
     },
   };
 }
