@@ -2,7 +2,7 @@ export const posts = [
     {
     id: '1',
     slug: "guia-completo-para-iniciante-em-programacao",
-    title: 'Guia Completo para Iniciantes em Programação',
+    title: 'Por Que Você Ainda Não Está Evoluindo na Programação (E Como Mudar Isso)',
     content: `# Evolução na Programação: Uma Jornada Estratégica Além do Código
 
 Existe um momento na jornada de quem aprende programação em que tudo parece confuso. Você aprende sintaxe, faz pequenos projetos, acompanha tutoriais — mas ainda sente que não está realmente evoluindo.
