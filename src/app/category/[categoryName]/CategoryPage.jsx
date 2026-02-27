@@ -30,7 +30,7 @@ const CategoryPageClient = ({ categoryName }) => {
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-4">{decodedCategoryName}</h1>
             <p className="text-xl text-gray-300">
-              Explore todos os nossos conteúdos sobre {decodedCategoryName.toLowerCase()} e eleve seu treino.
+              Explore todos os nossos conteúdos sobre {decodedCategoryName.toLowerCase()} de um programador.
             </p>
           </motion.div>
         </div>
