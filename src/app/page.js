@@ -6,7 +6,7 @@ export const metadata = {
 }
 export default function Home() {
   return (
-    <PostProvider>  <HomePage/></PostProvider>
+    <PostProvider><HomePage/></PostProvider>
     
   );
 }
