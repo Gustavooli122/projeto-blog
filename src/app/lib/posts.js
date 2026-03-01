@@ -411,7 +411,7 @@ Ela recompensa profundidade.
 Quem aprende a estudar com método não depende de sorte.  
 Depende apenas de tempo e consistência.`,
   category: 'Produtividade',
-  coverImage: '/imgs/computerArticle2.jpg',
+  coverImage: '/imgs/computerArticle2.png',
   summary: 'Como estudar programação de forma estratégica e consistente em meio ao excesso de informação.',
   tags: ['produtividade', 'estudo', 'programação'],
   author: 'Gustavo Oliveira',
