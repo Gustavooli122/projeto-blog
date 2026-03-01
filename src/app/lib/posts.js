@@ -246,9 +246,9 @@ E isso não é um problema.
  {
   id: '2',
   slug: "como-estudar-programacao-do-jeito-certo-em-2026",
-  title: 'Como Estudar Programação do Jeito Certo em 2026 (Sem Se Perder no Excesso de Informação)',
-  content:` # Como Estudar Programação do Jeito Certo em 2026
-  
+  title: 'Como Estudar Programação do Jeito Certo em 2026 ? ',
+  content:` # Como Estudar Programação do Jeito Certo em 2026 (Sem Se Perder no Excesso de Informação)
+
 Aprender programação em 2026 é, ao mesmo tempo, mais fácil e mais confuso do que nunca.
 
 Você tem acesso a cursos baratos, documentação completa, comunidades gigantes e inteligência artificial que responde qualquer dúvida em segundos. O problema não é falta de informação. O problema é excesso.
