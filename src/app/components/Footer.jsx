@@ -6,7 +6,7 @@ export default function Footer() {
         {/* Marca */}
         <div>
           <h2 className="text-white font-bold text-xl mb-3">
-            Evolução na <span className="text-cyan-400">Programação</span>
+            Evolução  <span className="text-cyan-400">dev</span>
           </h2>
           <p className="text-sm">
             Conteúdos estratégicos para desenvolvedores que desejam evoluir
