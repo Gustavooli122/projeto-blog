@@ -29,7 +29,7 @@ const isActive = (path) => pathname === path;
               <Activity className="w-6 h-6 text-white" />
             </div>
             <span className="text-xl font-bold tracking-tight">
-              Evolução na <span className="text-cyan-400">Programação</span>
+              Evolução <span className="text-cyan-400">dev</span>
             </span>
           </Link>
 
