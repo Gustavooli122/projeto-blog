@@ -605,14 +605,14 @@ Feche alguns tutoriais.
 Abra um projeto.
 
 E comece a construir.`,
-  category: 'Erros comuns',
+  category: 'Iniciantes',
   coverImage: '/imgs/errosIniciantes.png',
   summary: 'Por que assistir tutoriais demais pode travar iniciantes na programação e como estudar de forma mais eficaz.',
   tags: ['iniciantes', 'aprendizado', 'mentalidade', 'produtividade'],
   author: 'Gustavo Oliveira',
   readTime: '5 min',
   date: '2026-03-06',
-  relatedPostIds: ['1','2']
+  relatedPostIds: []
 }
  ];
 

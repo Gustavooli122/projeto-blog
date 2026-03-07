@@ -10,7 +10,7 @@ const CategoryCard = ({ category, count }) => {
       case 'Produtividade': return <Zap className="w-6 h-6" />;
       case 'Carreira': return <Dumbbell className="w-6 h-6" />;
       case 'Mentalidade': return <Battery className="w-6 h-6" />; // Abstract representation
-      case 'Erros Comuns': return <Flame className="w-6 h-6" />;
+      case 'Iniciantes': return <Flame className="w-6 h-6" />;
       default: return <Activity className="w-6 h-6" />;
     }
   };
@@ -21,7 +21,7 @@ const CategoryCard = ({ category, count }) => {
       case 'produtividade': return 'from-yellow-400 to-orange-500';
       case 'carreira': return 'from-gray-700 to-gray-900';
       case 'mentalidade': return 'from-pink-500 to-rose-500';
-      case 'erros comuns': return 'from-green-500 to-emerald-600';
+      case 'iniciantes': return 'from-green-500 to-emerald-600';
       default: return 'from-purple-500 to-indigo-600';
     }
   };

@@ -59,10 +59,8 @@ icon: "/icon.svg",
 };
 
 export default function RootLayout({ children }) {
-return ( <html lang="pt-BR">
-<body
-className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-> <ScrollToTop />
-{children} </body> </html>
+return (<html lang="pt-BR">
+<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}><ScrollToTop />
+{children}</body></html>
 );
 }

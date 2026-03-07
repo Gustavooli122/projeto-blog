@@ -13,7 +13,7 @@ const pathname = usePathname();
 
 const isActive = (path) => pathname === path;
 
-  const categories = ['Fundamentos', 'Produtividade', 'Mentalidade', 'Erros comuns','Carreira'];
+  const categories = ['Fundamentos', 'Produtividade', 'Mentalidade', 'Iniciantes','Carreira'];
   
   return (
     <motion.nav

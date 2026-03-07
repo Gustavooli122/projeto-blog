@@ -16,7 +16,7 @@ const HomePage = () => {
   const [searchQuery, setSearchQuery] = useState('');
 
   const featuredPosts = getFeaturedPosts();
-  const fixedCategories = ['Fundamentos', 'Produtividade', 'Mentalidade', 'Erros comuns','Carreira'];
+  const fixedCategories = ['Fundamentos', 'Produtividade', 'Mentalidade', 'Iniciantes','Carreira'];
   
   const displayedPosts = searchQuery ? searchPosts(searchQuery) : posts;
   const recentPosts = posts.slice(0, 6);
