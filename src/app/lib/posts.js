@@ -614,7 +614,7 @@ E comece a construir.`,
   date: '2026-03-06',
   relatedPostIds: []
 },
-    id: '3',
+    id: '4',
 slug: "estudar-front-end-ou-back-end-primeiro",
 title: 'Estudar Front-end ou Back-end Primeiro? A Escolha Que Todo Iniciante Enfrenta',
 content:`
