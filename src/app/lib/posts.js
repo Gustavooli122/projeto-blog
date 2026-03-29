@@ -739,7 +739,7 @@ Mas sim “como continuar mesmo quando a empolgação passa”.
 
 `,
 category: 'Carreira',
-coverImage: '/imgs/frontend-vs-backend.jpg',
+coverImage: '/imgs/file_00000000055871f5942ce47dc935ea28.png',
 summary: 'Front-end ou back-end: qual caminho escolher no início da programação?',
 tags: ['iniciantes', 'frontend', 'backend', 'carreira'],
 author: 'Gustavo Oliveira',
