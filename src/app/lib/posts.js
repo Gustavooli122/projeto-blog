@@ -745,7 +745,7 @@ tags: ['iniciantes', 'frontend', 'backend', 'carreira'],
 author: 'Gustavo Oliveira',
 readTime: '6 min',
 date: '2026-03-29',
-relatedPostIds: ['1']
+relatedPostIds: []
     }];
 
 export function getPostBySlug(slug) {
