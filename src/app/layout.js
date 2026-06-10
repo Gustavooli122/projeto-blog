@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import ScrollToTop from "./components/ScrollToTop";
+import { Analytics } from "@vercel/analytics/next"
 
 const geistSans = Geist({
 variable: "--font-geist-sans",
@@ -59,8 +60,9 @@ icon: "/icon.svg",
 };
 
 export default function RootLayout({ children }) {
-return (<html lang="pt-BR">
+return (
+<html lang="pt-BR">
 <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}><ScrollToTop />
-{children}</body></html>
+{children}<Analytics/></body></html>
 );
 }
