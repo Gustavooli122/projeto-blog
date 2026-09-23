@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Evolução Dev
 
-## Getting Started
+Evolução Dev é um site de blog voltado para programação e desenvolvimento web, criado para apresentar posts e conteúdos técnicos em uma interface moderna, organizada e responsiva.
 
-First, run the development server:
+## ✨ Funcionalidades
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Listagem de posts
+- Páginas individuais para artigos
+- Organização de conteúdos por categorias
+- Busca e navegação entre conteúdos
+- Layout responsivo
+- Interface focada em leitura e descoberta de artigos
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tecnologias
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 📌 Sobre o projeto
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+O Evolução Dev foi criado como um projeto de portfólio para praticar a construção de um blog moderno, organização de conteúdo, criação de componentes reutilizáveis e desenvolvimento de páginas responsivas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+> Este projeto é um site de blogs e posts sobre programação. Ele não é um agregador ou gerador de feeds RSS.
 
-## Deploy on Vercel
+## 📄 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Projeto desenvolvido para fins de estudo e portfólio.
